@@ -1,0 +1,44 @@
+
+
+
+.box-3,
+.box-4 h1{
+    font-size: 9pt;
+    color:black;
+    margin-top: -50px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+}
+
+.box-2 h2{
+    font-size: 9pt;
+    margin-top: -50px;
+    margin-left: 70px;
+    margin-bottom: 50px;
+    color: hsl(0, 0%, 81%);
+    opacity: 50%;
+}
+
+.box-2 h3{
+    font-size: 14pt;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    color: hsl(0, 0%, 81%);
+}
+
+.box-2 p{
+    color: hsl(0, 0%, 81%);
+    opacity: 70%;
+    font-size: 11pt;
+    letter-spacing: 1px;
+}
+
+
+.box-3 h2{
+    font-size: 9pt;
+    margin-top: -50px;
+    margin-left: 70px;
+    margin-bottom: 50px;
+    color: hsl(0, 0%, 81%);
+    opacity: 50%;
+}
